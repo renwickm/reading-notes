@@ -1,5 +1,7 @@
 # My Reading Notes!
 
+Hello, my name is Matthew Renwick and my pronouns are (he/him). I am currently a student at Code Fellows in the Software Development course. Computers and tech have always been a part of 
+
 *This is where I'm going to put my reading assignments!*
 
 **Growth mindset** is a concept derived from the combination of thought and motivation. Those seeking ***self-improvements**** re-direct their mindset in order to successfully promote their pre-determined goal. These goal/s, derived through thought, are charged through motivational factors such as personal, peer, cultural or societal influences. 
