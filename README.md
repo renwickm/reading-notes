@@ -9,3 +9,4 @@ Reminders to stay in a growth mindset:
 2. Goals are like walking. With each step, you move forward. So put your best foot forward!
 3. There is nothing worth achieving that has ever been easy. So if you find the path your on to be most difficult, keep going! You're heading in the right direction.
 
+Hello, my name is Matthew Renwick and this is a link to my GitHub profile https://github.com/renwickm
