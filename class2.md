@@ -76,3 +76,13 @@ What is a Shell?
 >And will produce something like this: **/bin/bash**  
 >>This output indicates you are using the shell ***bash***.
 
+# Basic Navigation!
+
+Where are you?
+-**pwd*, or **p**rint **w**orking **d**irectory, lets you know what your present or current working directory is.  
+-It's your current location
+
+What's in your current location?
+-**ls**, or **l**i**s**t, lists everything that is in the directory you are working in.
+
+Path's
