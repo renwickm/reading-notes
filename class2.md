@@ -18,7 +18,7 @@ What features should you look for in a text editor?
 
 >***Other features are available, but the most notible features are listed above.***
 
-# Third-Party Options
+### Third-Party Options
 
 1. NotePad++
 2. TextWrangler/BB Edit
@@ -27,9 +27,52 @@ What features should you look for in a text editor?
 5. Brackets
 6. Sublime Text
 
-# Text Editor and IDEs
+### Text Editor and IDEs
 
 **What is an IDE**
 >An IDE (Integrated Development Environment) is a suite of different software all coming together (The Older Coder, *Choosing A Text Editor,* Jan. 11)
 >It is a platform or workspace that has the ability to perform many, closely-tied and/or relatable, functions.
+
+# The Command Line!
+
+What is the Command Line?
+-Also known as a ***Terminal*** , the Command Line acts as a GUI (Graphical User Interface) but adds functionality to the task/s you are doing
+>Capable of having multiple windows open and working at once.
+>While you don't, and probably won't, be using multiple windows at the same time, this allows you to bounce back and forth between tasks as they become prioritized.
+
+-A text based interface to the system.
+>Typing commands on the keyboard will provide feedback in text.
+
+## Opening a Terminal
+
+1. Mac users
+>**Applications**, **Utilities**. 
+>Or use the shortcut by hitting **command + space**. 
+>In the spotlight search **Terminal**.
+2. Linux users
+>**Applications**, **System**, or **Applications**, **Utilities**,
+>May be able to right-click on the desktop and there may be an option for ***Open in Terminal***.
+3. Windows users
+>Will need an SSH client.  
+>***recommended***: Putty (Free)
+
+## The Shell, Bash
+
+What is a Shell?
+>This is part of the operating system that defines how the terminal will behave and looks after running (or executing) commands for you (Chadwick, R. *The Command Line*, 2022).  
+>Lives within the terminal
+
+### Common Shells
+
+1. Bash
+>**B**ourne **a**gain **sh**ell
+
+### Which are you using?
+
+1. Echo
+>In order to find which shell you are using, utilize the command ***echo*** in the command line, or terminal.  
+>After the prompt, type **echo** for your command. Leave a spce between your command and line argument which is **$SHELL**.  
+>It should look something like this: user@bash:  echo $SHELL  
+>And will produce something like this: **/bin/bash**  
+>>This output indicates you are using the shell ***bash***.
 
