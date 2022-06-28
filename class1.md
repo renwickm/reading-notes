@@ -38,3 +38,16 @@
 **Bold**
 1. Bolding text can be accomplished by adding two asterisks (**) or two underscores (__) before and after the text you want to emphasize.
 
+**Bold Best Practices**
+1. To emphasize the middle of a word or phrase, utilize the asterisk over the underscore and omit the white space.
+
+**Italic**
+1. Same practice as *bold* but instead of two asterisks or underscores, only use one.
+
+***Bold and Italic***
+1. To emphasize word or phrases with bold and italics, utilize three asterisks or underscores before and after a word or phrase.
+
+**Blockquotes**
+1. To insert a quote, or blockquote, in your text, insert a right arrow (>) before.
+
+
