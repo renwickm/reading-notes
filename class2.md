@@ -1,6 +1,6 @@
 # Class 2 Reading Notes!
 
-## Text Editor##
+## Text Editor
 
 What is a text editor?
 >A piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write (The Older Coder, *Choosing A Text Editor,* Jan. 11)
