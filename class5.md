@@ -6,8 +6,8 @@
 
 2. What is CSS used for?  
     - Very basic document text styling  
-        -changing **color**  
-        -changing **size**  
+        - changing **color**  
+        - changing **size**  
     - Create a layout  
         - convert a single column of text into a layout  
     - Animation  
@@ -16,11 +16,13 @@
     - Rule based language  
         - define rules by specifying groups of styles that should be applied to particular elements or groups of elements on your web page.  
         - Example
-            'h1 {  
+            ~~~
+            h1 {  
                 color: red;  
                 font-size: 5em;  
-            }'  
-            1. CSS opens with selector '(<h1>)'  
+            }
+            ~~~
+            1. CSS opens with selector  (h1)
             2. Then have a set of curly braces {}  
             3. Inside braces will be one or more declarations, in this case it refers to color and font size, whcih take the form of **property** and **value**.  
         - CSS Properties
