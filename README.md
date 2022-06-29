@@ -10,6 +10,12 @@ Hello, my name is Matthew Renwick and my pronouns are (he/him). I have an educat
 
 [Class3 Notes](/class3.md)
 
+[Class4 Notes](/class4.md)
+
+[Class5 Notes](/class5.md)
+
+[Class6 Notes](/class6.md)
+
 
 **Growth mindset** is a concept derived from the combination of thought and motivation. Those seeking ***self-improvements**** re-direct their mindset in order to successfully promote their pre-determined goal. These goal/s, derived through thought, are charged through motivational factors such as personal, peer, cultural or societal influences. 
 
