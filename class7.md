@@ -4,9 +4,9 @@
 
 * What is control flow?
 
-        - The order in which the computer executes statements in a script.
+    - The order in which the computer executes statements in a script.
 
-        - Code runs in order, from the first line to the last line, but frequently can run across the structures that change the **control flow**, such as *conditionals* and *loops*.  
+    - Code runs in order, from the first line to the last line, but frequently can run across the structures that change the **control flow**, such as *conditionals* and *loops*.  
 
     * Example:
 
@@ -29,16 +29,16 @@
     function myFunction (p1, p2){
         return p1 * p2;  // The function returns the product of p1 and p2
     }
-    ~~~
+    ~~~  
 
-    * JS Function Syntax
+    * JS Function Syntax  
 
         -Defined with the *function* keyword, followed by a **name**, followed by **()**.
-        -Names can contain letters, digits, underscores, and dollar signs (same rules apply as variables).
+        -Names can contain letters, digits, underscores, and dollar signs (same rules apply as variables).  
 
-        -The **()** may include parameter names separated by commas: **(parameter1, parameter2,..)** .
+        -The **()** may include parameter names separated by commas: **(parameter1, parameter2,..)** .  
 
-        -The code to be executed, by the function, is placed inside curly brackets: **{}** .
+        -The code to be executed, by the function, is placed inside curly brackets: **{}** . 
 
     ~~~
     function name(parameter1, parameter2, parameter3){
