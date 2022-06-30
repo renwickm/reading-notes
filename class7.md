@@ -8,15 +8,15 @@
 
         - Code runs in order, from the first line to the last line, but frequently can run across the structures that change the **control flow**, such as *conditionals* and *loops*.  
 
-  * Example:
+    * Example:
 
-    ~~~
-    if (field==emtpy){
-        promptUser();
-    } else {
-        submitForm();
-    }
-    ~~~
+        ~~~
+        if (field==emtpy){
+            promptUser();
+        } else {
+            submitForm();
+        }
+        ~~~
 
     * A typical script in JS or PHP includes  many control structures:
         1. Conditionals
@@ -30,6 +30,7 @@
         return p1 * p2;  // The function returns the product of p1 and p2
     }
     ~~~
+
     * JS Function Syntax
 
         -Defined with the *function* keyword, followed by a **name**, followed by **()**.
@@ -38,6 +39,7 @@
         -The **()** may include parameter names separated by commas: **(parameter1, parameter2,..)** .
 
         -The code to be executed, by the function, is placed inside curly brackets: **{}** .
+
     ~~~
     function name(parameter1, parameter2, parameter3){
         // code to be executed
