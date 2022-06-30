@@ -3,18 +3,20 @@
 ## Control Flow
 
 * What is control flow?
+
         - The order in which the computer executes statements in a script.
+
         - Code runs in order, from the first line to the last line, but frequently can run across the structures that change the **control flow**, such as *conditionals* and *loops*.  
 
   * Example:
 
-    '''text
+    ~~~
     if (field==emtpy){
         promptUser();
     } else {
         submitForm();
     }
-    '''
+    ~~~
 
     * A typical script in JS or PHP includes  many control structures:
         1. Conditionals
