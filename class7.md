@@ -31,14 +31,14 @@
     }
     ~~~  
 
-    * JS Function Syntax  
+* JS Function Syntax  
 
-        -Defined with the *function* keyword, followed by a **name**, followed by **()**.
-        -Names can contain letters, digits, underscores, and dollar signs (same rules apply as variables).  
+    -Defined with the *function* keyword, followed by a **name**, followed by **()**.
+    -Names can contain letters, digits, underscores, and dollar signs (same rules apply as variables).  
 
-        -The **()** may include parameter names separated by commas: **(parameter1, parameter2,..)** .  
+    -The **()** may include parameter names separated by commas: **(parameter1, parameter2,..)** .  
 
-        -The code to be executed, by the function, is placed inside curly brackets: **{}** . 
+    -The code to be executed, by the function, is placed inside curly brackets: **{}** . 
 
     ~~~
     function name(parameter1, parameter2, parameter3){
