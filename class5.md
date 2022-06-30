@@ -40,4 +40,27 @@
         1. External Style Sheet  
         2. Internal Style Sheet  
         3. Inline Style Sheet  
-    
+
+6. External Style Sheet
+    - Defined within the <link> element, inside the <head> section of the HTML page.  
+        1. Example:  
+        ~~~
+            <!DOCTYPE html>
+            <html>
+            <head>
+            <link rel="stylesheet" href="mystyle.css">
+            </head>
+            <body>
+            
+            <h1>This is a heading</h1>
+            <p>this is a paragraph.</p>
+
+            </body>
+            </html>
+        ~~~
+    - Can be written in any text editor, and must be saved with a .css extension.  
+    - The external .css file should not contain any HTML tags
+
+7. Internal Style Sheet
+    - An internal style sheet may be used if one single HTML page has a unique style.
+    - The internal style is defined inside the <style> element, inside the head section.
