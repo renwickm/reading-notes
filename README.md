@@ -12,56 +12,56 @@ Reminders to stay in a growth mindset:
 
 ## About
 
-This webpage is designed to act as a literate diary for my coursework readings. Each course is orginzed in ascending order under the **Table of Contents** section. They are easily identified in bold with an <h2> heading. All subsequant readings for each course can be found under their respective heading. Follow the hyperlink tied to the respective *class reading notes* you wish to view. Readings will be updated and become available as they are assigned.  
+This webpage is designed to act as a literate diary for my coursework readings. Each course is orginzed in ascending order under the **Table of Contents** section. They are easily identified in bold with an h2 heading. All subsequant readings for each course can be found under their respective heading. Follow the hyperlink tied to the respective *class reading notes* you wish to view. Readings will be updated and become available as they are assigned.  
 
 ## Table Of Contents
 
 ### Code 102 Reading Notes
 
-[Class1 Notes](/class1.md)
+[Class1 Notes](/class1_102.md)
 
-[Class2 Notes](/class2.md)
+[Class2 Notes](/class2_102.md)
 
-[Class3 Notes](/class3.md)
+[Class3 Notes](/class3_102.md)
 
-[Class4 Notes](/class4.md)
+[Class4 Notes](/class4_102.md)
 
-[Class5 Notes](/class5.md)
+[Class5 Notes](/class5_102.md)
 
-[Class6 Notes](/class6.md)
+[Class6 Notes](/class6_102.md)
 
-[Class7 Notes](/class7.md)
+[Class7 Notes](/class7_102.md)
 
-[Class8 Notes](/class8.md)
+[Class8 Notes](/class8_102.md)
 
 ### Code 201 Reading Notes
 
-[Code201 Class1 Notes]()
+[Code201 Class1 Notes](/class-01.md)
 
-[Code201 Class2 Notes]()
+[Code201 Class2 Notes](#fragment)
 
-[Code201 Class3 Notes]()
+[Code201 Class3 Notes](#fragment)
 
-[Code201 Class4 Notes]()
+[Code201 Class4 Notes](#fragment)
 
-[Code201 Class5 Notes]()
+[Code201 Class5 Notes](#fragment)
 
-[Code201 Class6 Notes]()
+[Code201 Class6 Notes](#fragment)
 
-[Code201 Class7 Notes]()
+[Code201 Class7 Notes](#fragment)
 
-[Code201 Class8 Notes]()
+[Code201 Class8 Notes](#fragment)
 
-[Code201 Class9 Notes]()
+[Code201 Class9 Notes](#fragment)
 
-[Code201 Class10 Notes]()
+[Code201 Class10 Notes](#fragment)
 
-[Code201 Class11 Notes]()
+[Code201 Class11 Notes](#fragment)
 
-[Code201 Class12 Notes]()
+[Code201 Class12 Notes](#fragment)
 
-[Code201 Class13 Notes]()
+[Code201 Class13 Notes](#fragment)
 
-[Code201 Class14 Notes]()
+[Code201 Class14 Notes](#fragment)
 
-[Code201 Class15 Notes]()
+[Code201 Class15 Notes](#fragment)
