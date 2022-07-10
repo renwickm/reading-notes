@@ -10,6 +10,10 @@ Reminders to stay in a growth mindset:
 2. Goals are like walking. With each step, you move forward. So put your best foot forward!
 3. There is nothing worth achieving that has ever been easy. So if you find the path your on to be most difficult, keep going! You're heading in the right direction.
 
+## About
+
+This webpage is designed to act as a literate diary for my coursework readings. Each course is orginzed in ascending order under the **Table of Contents** section. They are easily identified in bold with an <h2> heading. All subsequant readings for each course can be found under their respective heading. Follow the hyperlink tied to the respective *class reading notes* you wish to view. Readings will be updated and become available as they are assigned.  
+
 ## Table Of Contents
 
 ### Code 102 Reading Notes
