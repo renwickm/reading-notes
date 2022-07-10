@@ -8,52 +8,53 @@ Computers connected to the web are called clients and servers.
 Clients are the typical web user's internet-connected devices (for example, your computer connected to your Wi-Fi, or your phone connected to your mobile network) and web-accessing software available on those devices (usually a web browser like Firefox or Chrome).
 Servers are computers that store webpages, sites, or apps. When a client device wants to access a webpage, a copy of the webpage is downloaded from the server onto the client machine to be displayed in the user's web browser.
 
--Your internet connection: Allows you to send and receive data on the web. It's basically like the street between your house and the shop
--TCP/IP: Transmission Control Protocol and Internet Protocol are communication protocols that define how data should travel across the internet.
--DNS: Domain Name System is like an address book for websites.
--HTTP: Hypertext Transfer Protocol is an application protocol that defines a language for clients and servers to speak to each other.
--Component files: A website is made up of many different files, which are like the different parts of the goods you buy from the shop.
-1.Code files: Websites are built primarily from HTML, CSS, and JavaScript, though you'll meet other technologies a bit later.
-2.Assets: This is a collective name for all the other stuff that makes up a website, such as images, music, video, Word documents, and PDFs.
+- Your internet connection: Allows you to send and receive data on the web. It's basically like the street between your house and the shop
+- TCP/IP: Transmission Control Protocol and Internet Protocol are communication protocols that define how data should travel across the internet.
+- DNS: Domain Name System is like an address book for websites.
+- HTTP: Hypertext Transfer Protocol is an application protocol that defines a language for clients and servers to speak to each other.
+- Component files: A website is made up of many different files, which are like the different parts of the goods you buy from the shop.
+
+1. Code files: Websites are built primarily from HTML, CSS, and JavaScript, though you'll meet other technologies a bit later.
+2. Assets: This is a collective name for all the other stuff that makes up a website, such as images, music, video, Word documents, and PDFs.
 
 ### So what happens?
 
 When you type an address into the browser...
 
-1.Browser go to DNS server and finds the **real** address the site lives on...
-2.Browser sends HTTP message to server, requesting a copy be sent to the client. All of this data is sent using TCP/IP
-3.Following server *approval*, server sends files to client.
-4.Browser assembles data into small chunks that form the webpage.
+1. Browser go to DNS server and finds the **real** address the site lives on...
+2. Browser sends HTTP message to server, requesting a copy be sent to the client. All of this data is sent using TCP/IP
+3. Following server *approval*, server sends files to client.
+4. Browser assembles data into small chunks that form the webpage.
 
 ### DNS Explained
 
 Real web addresses aren't the nice, memorable strings you type into your address bar to find your favorite websites. They are special numbers that look like this: 63.245.215.20.
 
--Called in ***IP address***, this represents a unique location on the web.
+- Called in ***IP address***, this represents a unique location on the web.
 
 To improve accessibility and memorability, **DNS** match the *typed* web address to the real server:  **IP adresses**.
 
 ## What will your Website look like?
 
-1.What is it about?
-2.What information are you presenting on it?
-3.What does it look like?
+1. What is it about?
+2. What information are you presenting on it?
+3. What does it look like?
 
 **Start** with a *rough* skecth to outline key parts. Can use utilize web applications or just pen and paper.
 
 ### Choose Assetts
 
--Text
--Theme color
--Images
--Font
+- ext
+- Theme color
+- Images
+- Font
 
 There are many resources available to use along with many styles. Outline your draft to incoroprate these design options in a way that produces your webpages' potential.
 
 ## JavaScript Basics
 
 What is JavaScript?
--a powerful programming language that can add interactivity to a website.
+- a powerful programming language that can add interactivity to a website.
 
 **String**
 This is a sequence of text known as a string. To signify that the value is a string, enclose it in single quote marks:
@@ -111,9 +112,10 @@ Typical websites will include [element: !DOCTYPE HTML], [element: html] [element
 ## Designing a Website
 
 The first step in designing a website is to determine what kind of content you want to display in it. Some common questions you should ask before desiging your website are:
-1.What exactly do I want to accomplish?
-2.How will a website help me reach my goals?
-3.What needs to be done, and in what order, to reach my goals?
+
+1. What exactly do I want to accomplish?
+2. How will a website help me reach my goals?
+3. What needs to be done, and in what order, to reach my goals?
 This *project ideation* is the necessary first step to creating your website goals.
 
 One of the most important questions to ask in the examples above is *what exactly to I want to accomplish*?
