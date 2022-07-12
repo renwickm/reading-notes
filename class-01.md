@@ -145,3 +145,5 @@ JavaScript is linked to your HTML page through an [element: script].
 ~~~
 
 It is nested in the [element:head] along with your [element:meta] and CSS.
+
+## Things I want to know more about
