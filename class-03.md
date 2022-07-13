@@ -90,6 +90,6 @@ One real-world example of when a conditional stamement should be used is for gra
 
 Loops are useful when you want the ability to repeat code a number of times without having to right out that code a number of times. They are more efficient and less time consuming. A good example of when a loop would be appropriate would be like the password example above. But this time, the password only allows a certain number of attempts before the action results in termination. By inputing the correct password you proceed. By inputing the incorrect password the code loops back around and trys again and either the correct password is given or you run out of attempts and the loop is terminated.
 
- ### Things I would like to know more about
+### Things I would like to know more about
 
  Expressions and operators - it is hard to understand how we are to use these in real-worl applications from the readings. 
