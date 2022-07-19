@@ -50,7 +50,7 @@ This webpage is designed to act as a literate diary for my coursework readings. 
 
 [Code201 Class7 Notes](/class-07.md)
 
-[Code201 Class8 Notes](#fragment)
+[Code201 Class8 Notes](/class-08.md)
 
 [Code201 Class9 Notes](#fragment)
 
