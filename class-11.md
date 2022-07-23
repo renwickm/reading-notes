@@ -6,6 +6,8 @@
 
 1.Explain how the ability to use video and audio on the web has evolved since the early 2000's.
 
+
+
 2.Describe the use of the `src` and `controls` attributes in the `<video>` element.
 
 3.Why is it important to have **fallback content** inside the `<video>` element?
