@@ -26,12 +26,24 @@ In case the user browser does not support video playback, users should be provid
 
 1.How does Grid layout differ form Flex?
 
+Grid layout is two-dimensional. Flex is one-directional.
+
 2.Grid container, grid item, and grid line are a few important terms to understand when using Grid. Please describe these terms in a few sentences.
+
+The gird container is the box, or specefied area, you are designating to be the space of the grid from where you will structure the layout. The grid item is any particular propert/element/value to be structured inside the grid layout. The grid line indexes dimensions across the page.
 
 ### Responsive Images
 
 1.Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
 
+Developers have done a pretty good job at improving the quality of images across different viewport diplays. However, some viewports, such as narrow display devices (cell phones), don't offer the same quality in image resolution. Some suggestions are to replace larger photot with medium - small photos to adjust to the narrowing viewport. This also will work on lower bandwidth that most viewports in these categories will benefit from.  In light of the growing response to user device technologies, browsers offer more options to users from whichever viewport they are utilizing. 
+
 2.Define the following `<img>` attributes `srcset` and `sizes`. Write an example of how they are used. 
 
-3.How is `srcset` more helpful for responsive images that CSS or JavaScript?
+The `srcset` is an `img` attribute that provides a set of images the browser is able to choose from. Depending on the users' browser window, or viewport, this attribute will allow the browser to pick from the set that best fits the users viewport window.
+
+The `sizes` attribute sets conditions for the image to follow, such as specified height and width max across viewport, and how images will fit these conditions.
+
+3.How is `srcset` more helpful for responsive images than CSS or JavaScript?
+
+Images are downloaded prior to CSS and Javascript. By the time it takes CSS and JavaScript to run through its' download, any images have already finished their download. With the `srcset` you are provided options to address any viewport window adjustments needed, while correcting the process in webpage download steps.
