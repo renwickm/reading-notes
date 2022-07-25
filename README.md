@@ -58,7 +58,7 @@ This webpage is designed to act as a literate diary for my coursework readings. 
 
 [Code201 Class11 Notes](/class-11.md)
 
-[Code201 Class12 Notes](#fragment)
+[Code201 Class12 Notes](/class-12.md)
 
 [Code201 Class13 Notes](#fragment)
 
