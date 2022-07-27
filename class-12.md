@@ -16,7 +16,7 @@ The closing tag of the `</canvas>` element is where you put the fallback content
 
 The `getContext` method returns a render context object. It takes in one argument as its' type of context.
 
-### Chart.js Documentation:
+### Chart.js Documentation
 
 1.What is Chart.js and how it can be brought into your project?
 
