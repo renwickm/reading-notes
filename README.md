@@ -62,7 +62,7 @@ This webpage is designed to act as a literate diary for my coursework readings. 
 
 [Code201 Class13 Notes](/class-13.md)
 
-[Code201 Class14a Notes](/class-14a.md)
+[Code201 Class14a Notes](/Class-14a.md)
 
 [Code201 Class14b Notes](/class-14b.md)
 
