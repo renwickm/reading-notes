@@ -54,6 +54,7 @@ There are many resources available to use along with many styles. Outline your d
 ## JavaScript Basics
 
 What is JavaScript?
+
 - a powerful programming language that can add interactivity to a website.
 
 **String**
@@ -138,7 +139,7 @@ Other benefits of using semantic tags in HTML are:
 
 JavaScript is designed to read in order from top to bottom, making it very important to order your code correctly. A very common use of JavaScript is to dynamically modify HTML and CSS to update a user interface, via the Document Object Model API.
 
-JavaScript is linked to your HTML page through an [element: script]. 
+JavaScript is linked to your HTML page through an [element: script].
 
 ~~~bash
 <script src="script.js" defer></script>
