@@ -2,7 +2,7 @@
 
 ## React Lifecycle
 
-1. based off the diagram, what happes first, the 'render' or the 'componentDidMount'?
+1.Based off the diagram, what happes first, the 'render' or the 'componentDidMount'?
 
   -The `render` happens prior to the `componentDidMount`
 
@@ -10,7 +10,7 @@
 
   -The constructer is mounted
 
-3.Put the following thins in the order they happen: 
+3.Put the following thins in the order they happen:
 
   1.`constructor`
   2.`render`
@@ -26,7 +26,7 @@
 
 1.What types of things can you pass in the props?
 
-  -not sure but I think this is getting at different data types or attributes. In React, props are considered attributes so I would think that what gets passed through a prop are attributes. 
+  -not sure but I think this is getting at different data types or attributes. In React, props are considered attributes so I would think that what gets passed through a prop are attributes.
 
 2.What is the big difference between props and state?
 
